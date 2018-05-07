@@ -8,9 +8,14 @@ html {
     background-color: #c7c7c7;
 }
 
-body {
+body,
+img {
     max-width: 1200px;
     margin: 0 auto;
+    width: 60vw;
+    /* for tavlenoterne*/
+    height: 60vw;
+    /* for tavlenoterne*/
 }
 
 /* Navigation */
