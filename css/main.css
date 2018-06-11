@@ -36,6 +36,10 @@ img {
     height: 100%;
 }
 
+video {
+    width: 100%;
+}
+
 /* Navigation */
 
 nav ul {
